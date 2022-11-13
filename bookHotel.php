@@ -84,7 +84,7 @@ if(isset($_GET['id']))
                     
                     <div>
                         <label>Hotel Address</label>
-                        <input type="text" name="address" placeholder="copy and paste the address here" class="text-input" value="<?php echo $address ?>" />
+                        <input type="text" name="address" placeholder="paste the address here" class="text-input" value="<?php echo $address ?>" />
                     </div>
 
 
