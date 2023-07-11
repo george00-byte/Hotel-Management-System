@@ -73,7 +73,7 @@ $properties=getPublishedProperty();
                    
 
                     <ul id="nav-menu" class="ls-sticky">
-                        <li> <a href="<?php echo BASE_URL."/index.php"?>">Home</a></li>
+                
                         <li> <a class="active" href="<?php echo BASE_URL."/properties.php"?>">Hotels</a></li>
                         <li> <a href="#">Agents</a></li>
                         <li> <a href="#">About</a></li>

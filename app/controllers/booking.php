@@ -42,7 +42,7 @@
 	       $username =$_POST['username'];
            $email = $_POST['email'];
            $secondName= $_POST['secondName'];
-           $address = $__POST['address'];
+           $address = $_POST['address'];
            $checkIn = $_POST['checkIn'];
            $checkOut =$_POST['checkOut'];
            $phone =$_POST['phone'];

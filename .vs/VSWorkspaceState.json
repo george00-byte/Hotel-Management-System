@@ -1,15 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Admin",
-    "\\Admin\\booking",
-    "\\Admin\\clients",
     "\\app",
-    "\\app\\controllers",
     "\\app\\helpers",
-    "\\app\\includes",
-    "\\assets"
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\js"
   ],
-  "SelectedNode": "\\app\\controllers\\users.php",
   "PreviewInSolutionExplorer": false
 }
